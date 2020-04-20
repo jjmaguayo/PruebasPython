@@ -23,7 +23,7 @@ bld/
 [Ll]og/
 [Rr]eportes/Respaldo
 [Ee]jemplos/
-[Rr]eportes/Nuevos/datos_abiertos_covid19/
+#[Rr]eportes/Nuevos/
 
 # Visual Studio 2015 cache/options directory
 .vs/
